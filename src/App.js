@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom"; //, Link 
 import WeatherToday from "./WeatherToday";
 import './App.css';
 
